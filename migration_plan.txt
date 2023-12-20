@@ -1,2 +1,4 @@
 company_name,runner_id,nip_1,nip_2,migration_date
 domipol,123,111,222,10.2023
+piotrpol,666,777,888,11.2023
+piotrpol2,666,777,888,11.2023
